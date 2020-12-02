@@ -123,6 +123,7 @@ select.form-control option {
   display: block;
 }
 .navbar-inverse .navbar-nav > li > a {
+  font-size: 25px;
   color: #fff;
 }
 
