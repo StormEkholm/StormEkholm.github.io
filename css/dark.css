@@ -3227,6 +3227,7 @@ blockquote.style4 p {
 .map .map-box .map-detail ul li p {
   font-size: 13px;
   line-height: 20px;
+  color: #fff;
 }
 
 .map .map-box .map-detail ul li a {
@@ -3234,7 +3235,7 @@ blockquote.style4 p {
   font-weight: 400;
   font-size: 13px;
   line-height: 20px;
-  color: #5f5f5f;
+  color: #fff;
   margin: 0;
   padding: 0;
 }
@@ -5088,6 +5089,17 @@ tbody tr th {
 
 #footer p {
   color: #ffffff;
+  font-size: 20px;
+  float: right;
+}
+.blog-f .container ul.Opening-hours {
+  padding: 0 0 10px 0;
+}
+
+.blog-f .container ul.Opening-hours li {
+  font-size: 22px;
+  color: #ffffff;
+  text-align: left;
 }
 
 .ma-address {
