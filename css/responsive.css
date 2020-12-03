@@ -235,7 +235,7 @@
 .blog .main-blog ul li .box-holder .blog-detail { height:100px; width: 187px; padding:10px; }
 .blog .main-blog ul li .box-holder .blog-detail .link { height: 64px; }
 .blog .main-blog ul li .box-holder .blog-detail .link a { font-size: 11px; line-height: 13px; padding-bottom:0; }
-.map .map-box .map-detail { background-color:rgba(255,255,255,0.70); }
+/*.map .map-box .map-detail { background-color:rgba(255,255,255,0.70); }*/
 .map .map-box .map-detail ul li {  padding: 0 0 10px 52px; }
 .content-blog .navbar-collapse { margin:0; }
 .blog-head .container > .navbar-header, 

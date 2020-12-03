@@ -3256,6 +3256,9 @@ blockquote.style4 p {
   top: 0;
   left: 0;
 }
+/* smartphones, Android phones, landscape iPhone */
+@media (min-width: 320px) {
+}
 
 /* 4.8. ========== Contact Section End ==========*/
 
