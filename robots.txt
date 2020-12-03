@@ -1,0 +1,4 @@
+Sitemap: https://www.hairbyhiggins.com/sitemap.xml
+
+User-agent: NerdyBot
+Disallow: /
