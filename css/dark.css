@@ -1416,6 +1416,35 @@ h1 {
   content: url(../images/home-page/pricing-btn-bullet.png);
 }
 
+.pricing-bg .all-pricing {
+  float: left;
+  width: 100%;
+  padding: 30px 0 0 0;
+}
+.pricing-bg .all-pricing h2 {
+  font-weight: bold;
+}
+.pricing-bg .all-pricing h4 {
+  font-weight: bold;
+  padding: 44px 0 10px 0;
+}
+
+.pricing-bg .all-pricing h5 {
+  text-align: center;
+  padding: 20px 0 0 0;
+}
+
+.pricing-bg .all-pricing p {
+  color: #fff;
+  font-size: 14px;
+}
+
+.pricing-bg .all-pricing p span.price {
+  float: right;
+  font-weight: bold;
+  color: #fff;
+}
+
 /* 4.6. ========== Pricing Section End ==========*/
 
 /* 4.7. ========== Blog Section Start ==========*/
