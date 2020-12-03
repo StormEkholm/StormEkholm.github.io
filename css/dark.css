@@ -1438,6 +1438,17 @@ h1 {
   color: #fff;
   font-size: 14px;
 }
+.pricing-bg .all-pricing .discount {
+  text-align: center;
+}
+.pricing-bg .all-pricing .discount button {
+  font-weight: bold;
+  margin: 15px 0 0 0;
+}
+
+.pricing-bg .all-pricing .discount button:hover {
+  background-color: #b59e5c;
+}
 
 .pricing-bg .all-pricing p span.price {
   float: right;
